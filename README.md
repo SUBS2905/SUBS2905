@@ -38,7 +38,7 @@
    &emsp;
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
     &emsp;
-    <img alt="React" src="https://img.shields.io/badge/React%20-%abcdef.svg?logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React%20-%23007396.svg?logo=react&logoColor=white"/>
 </p>
 
 ### 👉 Backend & Cloud Hosting
