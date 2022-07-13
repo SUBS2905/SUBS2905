@@ -38,11 +38,13 @@
    &emsp;
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
     &emsp;
-    <img alt="React" src="https://img.shields.io/badge/React%20-%abcdef.svg?logo=react&logoColor=black"/>
+    <img alt="React" src="https://img.shields.io/badge/React%20-%abcdef.svg?logo=react&logoColor=white"/>
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Backend & Cloud Hosting
 <p align="left">
+  &emsp;
+    <img alt="NodeJS" src ="https://img.shields.io/badge/nodeJS-%abcdef.svg?style=flat&logo=nodedotjs&logoColor=white"/>
   &emsp;
     <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-%2307405e.svg?style=flat&logo=mongodb&logoColor=white"/>
   &emsp;
