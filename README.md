@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a 3rd year student at VIT Bhopal pursuing B.Tech in CSE. Coding and Video games keep me alive. I am an enthusiastic person who loves to take up new challenges and learn new skills.</h4>
+<h4 align="center">I am a final year student at VIT Bhopal University pursuing B.Tech in CSE. Coding and Video games keep me alive. I am an enthusiastic person who loves to take up new challenges and learn new skills.</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SUBS2905&label=Profile%20views&color=0e75b6&style=plastic" alt="SUBS2905" /> </p>
 
