@@ -38,19 +38,33 @@
    &emsp;
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
     &emsp;
-    <img alt="React" src="https://img.shields.io/badge/React%20-%23007396.svg?logo=react&logoColor=white"/>
+    <img alt="React.js" src="https://img.shields.io/badge/React.js%20-%23007396.svg?logo=react&logoColor=white"/>
+    &emsp;
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs"/>
+    &emsp;
+    <img alt="tailwind css" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?logo=tailwindcss&logoColor=white"/>
+    &emsp;
+    <img alt="framer-motion" src="https://img.shields.io/badge/Framer--motion-%230055FF?logo=framer&logoColor=white"/>
 </p>
 
 ### 👉 Backend & Cloud Hosting
 <p align="left">
   &emsp;
-    <img alt="NodeJS" src ="https://img.shields.io/badge/nodeJS-%abcdef.svg?style=flat&logo=nodedotjs&logoColor=white"/>
+    <img alt="NodeJS" src ="https://img.shields.io/badge/Node.js-%abcdef.svg?style=flat&logo=nodedotjs&logoColor=white"/>
   &emsp;
-    <img alt="MongoDB" src ="https://img.shields.io/badge/mongoDB-%2307405e.svg?style=flat&logo=mongodb&logoColor=white"/>
+    <img alt="expressjs" src="https://img.shields.io/badge/Express.js-%23FFFFFF?logo=express&logoColor=black">
   &emsp;
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">
+    <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white">
+  &emsp;
+    <img alt="firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=black">
+  &emsp;
+    <img alt="github pages" src="https://img.shields.io/badge/Github%20Pages-%23222222?logo=githubpages&logoColor=white">
   &emsp;
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white">
+  &emsp;
+    <img alt="netlify" src="https://img.shields.io/badge/Netlify-%2300C7B7?logo=netlify&logoColor=white">
+  &emsp;
+    <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000?logo=vercel&logoColor=white">
   
  ### 👉 Software & Tools
  
